@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdwt/Documents/Zelos-Vault/20-Areas/Sertifikasi/Dicoding/Submissions/15-SMSML-713/Workflow-CI_Mursyid-Dwi-Wahidiyantoro/mlruns/0/3b530258a87d48b88caf1b79e922c8b1/artifacts
+end_time: 1789896785894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b530258a87d48b88caf1b79e922c8b1
+run_name: aged-carp-590
+run_uuid: 3b530258a87d48b88caf1b79e922c8b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789896783304
+status: 4
+tags: []
+user_id: mdwt
