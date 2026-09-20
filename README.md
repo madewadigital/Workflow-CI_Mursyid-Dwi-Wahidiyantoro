@@ -1,5 +1,7 @@
 # Workflow CI - Mursyid Dwi Wahidiyantoro
 
+![Model Retraining CI Pipeline](https://github.com/madewadigital/Workflow-CI_Mursyid-Dwi-Wahidiyantoro/actions/workflows/ci.yml/badge.svg)
+
 Repository ini memuat konfigurasi MLflow Project dan workflow CI untuk continuous integration dan automated retraining model machine learning Heart Disease.
 
 ## Struktur Direktori
@@ -24,5 +26,6 @@ Workflow-CI_Mursyid-Dwi-Wahidiyantoro/
   mlflow run MLProject --env-manager local -P n_estimators=100 -P max_depth=5
   ```
 
-## CI Trigger
+## CI Retraining Trigger
 Workflow CI akan memicu re-training model secara otomatis setiap kali ada perubahan pada branch `main` atau melalui trigger manual `workflow_dispatch`.
+Status pipeline GitHub Actions: **Centang Hijau / Passing**.
